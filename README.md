@@ -15,10 +15,10 @@ Neste projeto, desenvolvi um modelo de Machine Learning capaz de prever o churn 
 ### 🗺️ Da Análise Exploratória ao Deploy
 
 1. **Análise Exploratória de Dados (EDA):** Realizei uma análise profunda dos dados, identificando padrões, *outliers* e pistas valiosas sobre os fatores que levam os clientes a cancelar.
-   - 🔗 **[Notebook de EDA no GitHub](https://github.com/Jcnok/Stack_Labs_Churn/blob/main/Analise_churn.ipynb)**
+   - 🔗 **[Notebook de EDA](https://github.com/Jcnok/Stack_Labs_Churn/blob/main/Analise_churn.ipynb)**
 
 2. **Modelagem (Machine Learning):** Testei diversos algoritmos, comparando suas performances para encontrar o modelo mais preciso na identificação de clientes em risco.
-   - 🔗 **[Notebook de Machine Learning no GitHub](https://github.com/Jcnok/Stack_Labs_Churn/blob/main/Models/DataScience.ipynb)**
+   - 🔗 **[Notebook de Machine](https://github.com/Jcnok/Stack_Labs_Churn/blob/main/Models/DataScience.ipynb)**
 
 ### ✨ Resultados e Impacto
 
